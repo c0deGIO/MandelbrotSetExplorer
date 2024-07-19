@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mandelbrot Set</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="palettes"></div>
+    <div class="download">
+        <button id="download-btn" onclick="downloadImg()">Download</button>
+        <button id="zoom-in" class="tools-buttons" onclick="zoomIn()">+</button>
+        <button id="zoom-out" class="tools-buttons" onclick="zoomOut()">-</button>
+        <button id="move-left" class="tools-buttons" onclick="moveLeft()">←</button>
+        <button id="move-right" class="tools-buttons" onclick="moveRight()">→</button>
+        <button id="move-up" class="tools-buttons" onclick="moveTop()">↑</button>
+        <button id="move-down" class="tools-buttons" onclick="moveBottom()">↓</button>
+    </div>
+    <div class="canvas-container"> <!-- 764x360 -->
+        <canvas id="myCanvas" width="3056" height="1440"></canvas>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
