@@ -1,0 +1,50 @@
+[
+    {
+        "id": "first",
+        "title": "Spring Blossom",
+        "interpolation": 35,
+        "colours": [5923764, 15769579, 11133313]
+    },
+
+    {
+        "id": "second",
+        "title": "Summer Sunset",
+        "interpolation": 35,
+        "colours": [16079194, 16053338, 9106522, 1414490, 6176602, 11220314]
+    },
+
+    {
+        "id": "third",
+        "title": "Twilight Glow",
+        "interpolation": 35,
+        "colours": [995527, 13158600, 15856976]
+    },
+
+    {
+        "id": "fourth",
+        "title": "Ember Blaze",
+        "interpolation": 35,
+        "colours": [1973790, 16386570, 15856976, 16386570]
+    },
+
+    {
+        "id": "fifth",
+        "title": "Mystic Oasis",
+        "interpolation": 35,
+        "colours": [13303491, 15066279, 15814944, 8657943, 357550, 9032657]
+    },
+
+    {
+        "id": "sixth",
+        "title": "Lollipop",
+        "interpolation": 35,
+        "colours": [13488338, 7374591, 16735381, 16777093, 9236113]
+    },
+
+    {
+        "id": "seventh",
+        "title": "Autumn Harvest",
+        "interpolation": 30,
+        "colours": [4333071, 1640218, 590127, 263241, 1892, 797834, 1594033, 3767761, 8828389, 13888760, 15854015, 16304479, 16755200, 13402112, 10049280, 6960131]
+    }
+]
