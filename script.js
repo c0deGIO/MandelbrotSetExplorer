@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     initEventListeners();
 
-    fetch("/assets/palettes.json")
+    fetch("assets/palettes.json")
         .then((response) => {
             if (!response.ok) {
                 throw new Error("Network response was not ok");
