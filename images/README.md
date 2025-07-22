@@ -7,3 +7,6 @@ I may occasionally upload some cool pictures of the `Mandelbrot Set` here.
 ![Mandelbrot Set](4.png)
 ![Mandelbrot Set](5.png)
 ![Mandelbrot Set](6.png)
+![Mandelbrot Set](7.png)
+![Mandelbrot Set](8.png)
+![Mandelbrot Set](9.png)
